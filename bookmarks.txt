@@ -1,0 +1,2 @@
+get started:https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/16.x/index.html
+examples: //https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/update_examples.html
